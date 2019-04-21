@@ -2,7 +2,7 @@
 # Group Project: *Are We Happier Than Ever?*
 ## 1.author
 #### Group No.8
-#### Group Member: Yuming Chen(3035561601), Shanyu Xiong (3035561534) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Xiaohui Qu(3035561508), Xiao Tan(3035460924)
+#### Group Member: Yuming Chen(3035561601), Shanyu Xiong (3035561534) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Xiaohui Qu(3035561508), Xiao Tan(3035460924)
 
 ## 2.Get Start
 * unzip package Group_8.zip
